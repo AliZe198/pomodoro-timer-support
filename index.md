@@ -15,7 +15,7 @@ Choose 5 minutes to 4 hours of focus time; breaks are added separately. Use Coun
 
 ## Find your timer
 
-Closing the main window does not quit the app. Use the menu bar item to reopen it, or choose Window → Show Main Window while PomoFloat is active. The button at the top right of the main window toggles the floating timer. Settings → Floating timer offers eight styles, always-on-top, and display over full-screen apps. Drag the window or its edges to move or resize it; click a compact timer to expand it.
+Closing the main window does not quit the app. Use the menu bar item to reopen it, or choose Window → Show Main Window while PomoFloat is active. The button at the top right of the main window toggles the floating timer. Settings → Floating timer offers six styles, always-on-top, and display over full-screen apps. Drag the window or its edges to move or resize it; click a compact timer to expand it.
 
 ## Tasks and saved records
 
